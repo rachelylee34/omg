@@ -125,7 +125,7 @@
             </p>
             <figure class="fig fignone" id="topic-3545__e485515c-6485-434f-979d-dc4dcaf97b5c">
                <figcaption><span class="fig--title-label">Figure 2. </span> Hong Kong Egg Tart
-               </figcaption><img class="image" height="450" width="400" src="8222d173-6f9e-49c7-91cb-c50ebc2559d1.jpeg"></figure>
+               </figcaption><img class="image" height="450" width="400" src="https://omnivorescookbook.com/wp-content/uploads/2021/04/200918_Hong-Kong-Egg-Tart_550.jpg"></figure>
             <p class="p"><strong class="ph b">Ingredients</strong></p>
             <p class="p">Yield: 12</p>
             <p class="p">Total Time:</p>
