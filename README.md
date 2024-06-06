@@ -18,7 +18,7 @@
     <div class="bottom-stripe">
       <div class="logo-container">
         <div class="logo">
-          <img src="https://communicationsguide.ucdavis.edu/sites/g/files/dgvnsk6246/files/inline-images/ucdavis_logo_3_gold.gif"/>
+          <img src="https://zhangcatherine.com/wp-content/uploads/2023/02/P2040013.jpg"/>
         </div>
       </div>
     </div>
