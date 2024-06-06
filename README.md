@@ -18,7 +18,7 @@
     <div class="bottom-stripe">
       <div class="logo-container">
         <div class="logo">
-          <img src="https://zhangcatherine.com/wp-content/uploads/2023/02/P2040013.jpg"/>
+          <img src="https://communicationsguide.ucdavis.edu/sites/g/files/dgvnsk6246/files/inline-images/ucdavis_logo_3_gold.gif"/>
         </div>
       </div>
     </div>
@@ -63,7 +63,7 @@
             <div class="p">
                <figure class="fig fignone" id="topic-3948__d1af02e1-9a16-451e-9d5c-2664f30ef266">
                   <figcaption><span class="fig--title-label">Figure 1. </span>Mango Sago
-                  </figcaption><img class="image" height="350" width="300" src="95047918-e90f-4758-89fe-906fd0a24fe3.jpeg"></figure>
+                  </figcaption><img class="image" height="350" width="300" src="https://zhangcatherine.com/wp-content/uploads/2023/02/P2040013.jpg"></figure>
             </div>
             <p class="p"><strong class="ph b">Ingredients</strong></p>
             <p class="p">Yield: 12 servings</p>
